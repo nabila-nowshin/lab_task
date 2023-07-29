@@ -1,2 +1,4 @@
-ECE 20
-RUET
+
+ECE 21
+BUET
+
